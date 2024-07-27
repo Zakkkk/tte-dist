@@ -4,6 +4,9 @@ hook: "As the world grapples with climate change, renewable energy is becoming i
 author: 3
 date: 1720093492316
 imgUrl: "https://images.pexels.com/photos/532192/pexels-photo-532192.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+triggers: [
+  "Contains images of people that have died",
+]
 headings: [
   { id: "heading-0", title: "Introduction", level: 1 },
   { id: "heading-1", title: "Current State of Renewable Energy", level: 1 },

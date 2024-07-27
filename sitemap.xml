@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2024-05-03T04:39:16+00:00</lastmod>
+    <loc>https://ttexchange.org/</loc>
+    <lastmod>2024-07-27T02:33:21+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://ttexchange.org/articles</loc>
+    <lastmod>2024-07-27T02:33:21+00:00</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://ttexchange.org/submit</loc>
+    <lastmod>2024-07-27T02:33:21+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://ttexchange.org/constitution</loc>
+    <lastmod>2024-07-27T02:33:21+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://ttexchange.org/mission</loc>
+    <lastmod>2024-07-27T02:33:21+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://ttexchange.org/contact</loc>
+    <lastmod>2024-07-27T02:33:21+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://ttexchange.org/donate</loc>
+    <lastmod>2024-07-27T02:33:21+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://ttexchange.org/privacy</loc>
+    <lastmod>2024-07-27T02:33:21+00:00</lastmod>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
