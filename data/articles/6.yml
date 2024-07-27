@@ -1,0 +1,55 @@
+id: 6
+# id always matches the file name
+title: "Best Hiking Spots in Europe"
+hook: "On May 9, Sydney Law School announced that there would be no Winter intensives taking place in July 2024."
+author: 0
+date: 1720072392316
+imgUrl: "https://images.pexels.com/photos/26653524/pexels-photo-26653524/free-photo-of-explorer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+headings: [ # max of level 3 (ideally)
+  { id: "heading-0", title: "Republica (plant)", level: 1},
+  { id: "heading-1", title: "Distribution", level: 1 },
+  { id: "heading-2", title: "History and Classification", level: 1 },
+  { id: "heading-3", title: "Description", level: 1 },
+  { id: "heading-4", title: "R. hickeyi", level: 2 },
+  { id: "heading-5", title: "R. kummerensis", level: 2 },
+  { id: "heading-6", title: "Level 3", level: 3 },
+]
+content: |
+  # Republica (plant) {#heading-0}
+  Republica is an enigmatic genus of flowering plants which includes three known species: Republica hickeyi, Republica kummerensis, and Republica litseafolia. The genus has been found in Eocene age geologic formations along the Pacific coast of North America. The affiliations of Republica are uncertain, with the most recent placement being tentatively in the now broken up subclass Hamamelididae. 
+
+  # Distribution {#heading-1}
+  The three species currently assigned to Republica are all known from western North America. The type species R. hickeyi is isolated to the Klondike Mountain Formation in the Ypresian Eocene Okanagan Highlands of northwest central Washington [Here is a link idfk](https://link-url-here.org)
+
+  R. kummerensis synonymy
+  R. litseafolia synonymy
+
+  Republica is an enigmatic genus of flowering plants which includes three known species: Republica hickeyi, Republica kummerensis, and Republica litseafolia. The genus has been found in Eocene age geologic formations along the Pacific coast of North America. The affiliations of Republica are uncertain, with the most recent placement being tentatively in the now broken up subclass Hamamelididae.
+  Distribution
+
+  ![This is an image description](https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+  The three species currently assigned to Republica are all known from western North America. The type species R. hickeyi is isolated to the Klondike Mountain Formation in the Ypresian Eocene Okanagan Highlands of northwest central Washington.[1] some more words bla bla bla
+
+  The first named species, R. litseafolia has been identified from its type locality at the "Chalk bluffs" site in the northern area of California's Ione Formation. The site has been variously assigned to the early Eocene by Harry MacGinitie, based on attempted correlation to the Ione type strata resulting in a Ypresian age often being reported.[2] However other authors suggest the age may be mistaken, based on anomalously low mean annual temperature estimates compared to other sites purported to be the same age located north and inland of the Chalk Bluffs site, with a possible 37 million years ago age begin suggested by Donald Prothero et al. (2011).[3] Leaves assigned to R. litseafolia were later reported by Jack Wolfe (1968) from the Eocene Puget Group floras of the Green River gorge in King County, Washington by Jack Wolfe.
+
+  # History and classification {#heading-2}
+  The first Republica species to be named was initially studied and described by Harry MacGinitie in 1941 based on fossils from the Ione Formations Chalk Bluff and Buckeye Flat sites. Based on a series of five cotypes, numbers 2199 - 2203 in the University of California Museum of Paleontology paleobotany collection, he named the new species Laurophyllum litseafolia. He did not give specific details on the etymology, but chose to place the new species in Laurophyllum a form genus for Lauraceae-like leaves, while noting that he considered the most similar species to be Cryptocary multipaniculata.[2]
+
+  In 1968 Wolfe finished his monograph on the fossil plants of the Puget Groups Green River gorge, among which were a series of leaves which he deemed the same as the Ione fossils. However, he disagreed with MacGinities placement of the species in Lauraceae and opted to follow Edward W. Berrys choice of genus for similar leaves from the Wilcox Group. As such the species was moved to the form genus Artocarpoides as the new combination Artocarpoides litseafolia, with suggested family affiliation in Moraceae. Wolfe also described a second species Artocarpoides kummerensis from holotype USNM 42104 and paratypes USNM 42105, USNM 42158, and USNM 42159, all part of the US National Museum. Found at five sites in the Green River gorge area, Wolfe states that the two species form a gradual series, with the leaves having less than a 2:1 length/width ratio being placed in A. litseafolia and those with a length/width greater than 2:1 considered as A. kummerensis. As with MacGinities species, Wolfe did not give an etymological explanation for the species, though the paper does discuss the Kummer sandstone bed being the base of the Kummerian section at the type locality for the stage.[4]
+
+  The next year, while discussing general taxonomic changes in western fossil floras, MacGinitie (1969) again discussed Artocarpoides litseafolia which he and Wolfe had talked over after Wolfes 1968 paper. Both paleobotanists were of the same opinion that placement within Artocarpoides and thus Moraceae was wrong. While the thick and long petiole and heart shaped base surrounding are found in lauraceous genera, and the distinct quaternary and quintery veins are seen in Moraceous genera, all those characters combined are not seen in either family. As such MacGinitie moved the species to Dicotylophyllum litseafolia, Dicotylophyllum being a form genus for angiosperm leaf fossils of uncertain family or higher affinity.[5]
+
+  Wolfe again addressed "A." kummerensis while reporting it from the "Kushtaka formation" in Alaska. While he acknowledged and backed the 1969 move to D. litseafolia, he also maintained that it was closely related to the leaved from Alaska and the Puget Group. So he moved the species to Dicotylophyllum as well under the new combination Dicotylophyllum kummerensis.[6]
+
+  # Description {#heading-3}
+  Leaves of the genus Republica are smooth margined, with a symmetrical outline and simple pinnate venation. The secondary veins fork from the midvein with a transition from a high fork angle near the apex though a low fork angle in the middle region of the leaf and then back to a high angle on the basal most pair of secondaries. The middle and more basal secondary veins have a broad upward curving path as they approach the margin, while the upper secondaries have a more pronounced and quicker upturn. The veins loop upwards towards the next secondary up, before joining with a fork from the next secondary up or with a tertiary vein. There are typically no interseconday veins forking from the primary vein, but the secondaries typically have several branches that fork at low angles from the lower sides. The tertiary veins can run the full space between two secondaries, branch, or form orthogonal junctions and polygonal areolae. Similarly the quaternary veins are branched and also form a polygonal reticulums
+
+  ## R. hickeyi {#heading-4}
+  Leaves of Republica hickeyi are a wide elliptic in outline with an apparently thick leathery texture in life. The leaf base is an narrow v-shape in outline while the apex is broad and slightly pointed. The petiole is thick transitioning into the base of the primary vein which gradually narrows from leaf base to apex. In the only specimen known to Wolfe and Wehr, there are eight secondary veins on one side of the primary, and nine secondaries on the opposite side. The thinner basal seconday pair both branch from the primary at an angle of around 50° before taking rather irregular paths towards the leaf margin, curving upwards and merging with tertiary veins below the next secondary apical. The middle secondaries fork from the primary vein at increasing degrees of angle basally to apically, shifting from 45° up to 55°. The tertiary veins form a reticulate vein structure between the secondaries, the quaternaries are similarly reticulate, typically forming into quadrangular and pentagonal shapes with quinternary veinlets forming areolea enclosing a freely ending veinlet that may be unbranched or singularly branched
+
+  ## R. kummerensis {#heading-5}
+  The leaves of Republica kummerensis are obovate in general outline, with a more elongate outline then the proposed ancestral R. litseafolia, which typically has a length:width of less than 2:1, while R. kummerensis is more than 2:1. The general size range reported by Wolfe is between 7.5–11.0 cm (3.0–4.3 in) long and 3.0–5.3 cm (1.2–2.1 in) wide with between 9 and 10 pairs of secondaries. The bases of R. kummerensis are most frequently broadly rounded in shape, with rare specimens showing a more cordate base. Where they are known, the petioles are between 3.0–3.3 cm (1.2–1.3 in) in length. The secondaries branch from the primary at irregularly spaced intervals with departure angles between 40°-60°, a greater range than seen in either R. hickeyi or R. litseafolia. Additionally R. kummerensis has frequent intersecondary veins branching from the primary between the secondaries.[
+  
+  ### Level 3 test {#heading-6}
+  lorem ipsum bla bla bla

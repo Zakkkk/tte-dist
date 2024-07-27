@@ -1,0 +1,10 @@
+id: 0
+# id always matches the file name
+title: "Example Title and Some More Words"
+hook: "Why blah blah blah"
+author: 0
+date: 1720072392316
+imgUrl: "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg"
+headings: []
+content: |
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe doloremque corporis possimus, voluptatibus, dolorem quis quaerat magnam reiciendis totam deleniti dicta nostrum optio distinctio, voluptatum tempora suscipit? Debitis, fuga voluptatum.
