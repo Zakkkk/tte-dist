@@ -1,10 +1,45 @@
 id: 0
-# id always matches the file name
-title: "Example Title and Some More Words"
-hook: "Why blah blah blah"
+title: "Argentina The Prelude: An Introduction"
+hook: "As the start of a weekly segment on Argentina and its history, this is an exploration of the What, the Why and How of Argentina, the country."
 author: 0
-date: 1720072392316
-imgUrl: "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg"
-headings: []
+date: 1722143290225
+imgUrl: "https://images.pexels.com/photos/14813312/pexels-photo-14813312.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+triggers: []
+headings: [
+  { id: "heading-0", title: "Argentina The Prelude: The How the What and the Why", level: 1 },
+]
 content: |
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe doloremque corporis possimus, voluptatibus, dolorem quis quaerat magnam reiciendis totam deleniti dicta nostrum optio distinctio, voluptatum tempora suscipit? Debitis, fuga voluptatum.
+  # Argentina The Prelude: The How the What and the Why {#heading-0}
+  This is the start of a weekly segment I will be doing on the history of Argentina. Released every Friday I will explore a new part of Argentine history, starting with indigenous groups, running through colonisation, the fight for independence, European immigration, the dirty wars and military dictatorships, las Malvinas (the Falklands), Peronism, the 2001 economic crisis, and finally, Javier Milei. I want to explore the fascinating history of a country that most people think is football, and perhaps inflation. In many ways, Argentina can serve as a warning of what not to do, and thus I will comment also on what we should learn.
+
+  ![](https://images.pexels.com/photos/5609528/pexels-photo-5609528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+  I will first give a brief introduction to Argentina. It is the second largest country by landmass in South America, located East of Chile, and South of Uruguay, Paraguay and Brazil. There are 46 million people, with a large concentration of them living in Buenos Aires, the capital. Buenos Aires is almost on the same latitude as Sydney, but is much larger, and is located on the widest river in the world, the Rio de la Plata. To the north, Argentina stretches up to “la Pampa,” a large, flat grassland pictured below.
+
+  ![](https://images.unsplash.com/photo-1581175894824-c0fa1cfba27a?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+  To the West, there is the border with Chile. Along this border runs the longest mountain range in the world, the Andes. In Argentina, these run from the Bolivian border to the north, to the southernmost city in the world, Ushuaia, in the Patagonia. The tallest mountain in the Americas, Aconcagua lies on the Argentine side of this, about halfway down the country. The Andes continue to the Patagonia, the southernmost points of the earth not on Antarctica, passing the bottom of Cape Horn, along Tierra del Fuego. This is the point that Antarctic explorers leave from.
+
+  ![](https://images.unsplash.com/photo-1635003698715-7f1b33eaff15?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+  Now, the people. Argentina has an indigenous population (wait for next week for more), but the majority of Argentines have European heritage. Being colonised by the Spanish, there is obviously Spanish roots, but the strongest connections are Italian. Many Argentines have Italian heritage, due to post World War Two immigration, to the extent that the accent in Spanish is reminiscent of the Italian language. There are also large French cultural connections, where Buenos Aires is known as the Paris of South America. There is a large farming culture, even for city dwellers, with customs including an infused tea drink called “maté,” the “asado,” with translates to barbeque, being the focal point of social interactions. There are significant differences in customs depending on the region, but other customs include “tango,” a traditional dance, polo, a ball game played on horseback, and of course, football.
+
+  ![](https://images.unsplash.com/photo-1651276816596-26672b0f5d1f?q=80&w=3147&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+  Now, the why. Economically, Argentina is a trainwreck. In fact, many economists joke there are 4 types of economies: Developing, developed, Japan (because its neither), and Argentina (because no one understands why it&#39;s not so much better). In 1901, the two richest economies in terms of GDP per capita, a measure of how much an economy produces scaled per person, were Australia and Argentina. The latest 2023 statistics from the World Bank (in USD) place Australia 12 th , and Argentina 67 th. Note that this is not adjusted for purchasing power parity (PPP), which instead of measuring to the USD, would measure against the worth of goods. Why this is important will be relevant in a few episodes.
+
+  ![](https://images.pexels.com/photos/8242968/pexels-photo-8242968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+  Argentina is rich in all types of resources. It has some of the most agriculturally fertile land in the world, the worlds third largest reserves of lithium, expansive reserves of copper, gold and silver, as well as large reserves of oil and gas. Furthermore, Argentina has a strong education system, with the lowest levels of illiteracy in South America, and the highest rates of university graduates. Moreover, these universities are internationally well renowned, with the University of Buenos Aires, the largest public university in Argentina, ranked 71 st in the world. We mustn’t regard Argentina as a country lacking the resources to grow, but instead as a study of how to not misuse the resources we are given.
+
+  ![](https://images.pexels.com/photos/3428177/pexels-photo-3428177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+  I think Argentina is also a good case study because of its similarities to Australia. A large country with a small population, large post World War two European immigration, an abundance of natural resources, and a relatively wealthy country surrounded by less wealthy nations (at least that was true in the early 20 th century). Argentines and Australians have similar experiences, similar cultures, and similar potential, so we should learn what the differences really are. This will teach us about what our future could look like, what steps we could implement now, but also learn what Argentina is to do now.
+
+  ![](https://images.pexels.com/photos/8279922/pexels-photo-8279922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+  Now the how and the what. My weekly segments will focus on a new chapter of Argentine history. I will start on the indigenous Americans native to this land, looking at their history, their experiences of colonialism, and finally how they live now. I hope you can join me!
+
+  There is a last part of this. This is a personal story for me, as I am Argentine. I want to share, but also learn more about my country and heritage. And I want others to learn about this country’s beauty, culture and history (just look at the images above). Please follow along with me! Each segment will come out on a Friday.
+
+  For me, this is a personal journey. I was born to an Argentine father and an Australian mother. My identity as Argentine is complicated. I speak Spanish with an Argentine accent, drink mate (an Argentine absorption drink) and follow fútbol, but belonging is more complicated than that. There is history and culture that is inexplicable, but this is my attempt at that. I would like to share the beauty of this country, and my culture, so that others can also appreciate it. And understand Argentina not as just another Latin American economic failure with the greatest football player of all time, but as a country with a beautiful culture, and hopefully a bright future.
